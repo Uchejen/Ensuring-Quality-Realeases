@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1663397156306,529,GET All Activities,404,Not Found,Endurance Test 1-1,text,false,,263,193,2,4,https://projectapp3-appservice.azurewebsites.net/api/Activities?page1=1,529,0,409
+1663397156787,458,GET All Activities,404,Not Found,Endurance Test 1-2,text,false,,263,193,1,2,https://projectapp3-appservice.azurewebsites.net/api/Activities?page1=1,458,0,350
